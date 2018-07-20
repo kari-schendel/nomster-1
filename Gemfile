@@ -60,6 +60,8 @@ gem 'bootstrap', '4.0.0.alpha6'
 # Gemfile for Pagination
 gem 'will_paginate', '~> 3.1', '>= 3.1.6'
 
+# Simple Form
+gem 'simple_form'
 
 
 source 'https://rails-assets.org' do
