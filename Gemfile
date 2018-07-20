@@ -63,6 +63,9 @@ gem 'will_paginate', '~> 3.1', '>= 3.1.6'
 # Simple Form
 gem 'simple_form'
 
+# Font Awesome
+gem "font-awesome-rails"
+
 
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
